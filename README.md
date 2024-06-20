@@ -10,7 +10,7 @@ Excelファイル から Markdownテーブル の変換で使用したファイ�
   
 - 出力ファイル
   
-  [ExcelToMarkdownTable_outputMarkdownTable.md](ExcelToMarkdown/outputMarkdownTable.md)
+  [outputMarkdownTable.md](ExcelToMarkdown/outputMarkdownTable.md)
 
 ## フォルダー「MarkdownTableToExcel」
 
@@ -20,6 +20,14 @@ Markdownテーブル から Excelファイル の変換で使用したファイ�
     MarkdownTableToExcel_inputMarkdownTable.md
 - 出力ファイル
     MarkdownTableToExcel_outputExcel.xlsx
+
+- 入力ファイル
+  
+  [inputMarkdownTable.xlsx](MarkdownToExcel/inputExcel.xlsx)
+  
+- 出力ファイル
+  
+  [outputExcel.md](MarkdownToExcel/outputMarkdownTable.md)
 
 ## 関連記事のリンク
 

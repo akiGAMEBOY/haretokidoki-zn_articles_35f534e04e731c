@@ -17,11 +17,6 @@ Excelファイル から Markdownテーブル の変換で使用したファイ�
 Markdownテーブル から Excelファイル の変換で使用したファイル。
 
 - 入力ファイル
-    MarkdownTableToExcel_inputMarkdownTable.md
-- 出力ファイル
-    MarkdownTableToExcel_outputExcel.xlsx
-
-- 入力ファイル
   
   [inputMarkdownTable.xlsx](MarkdownToExcel/inputExcel.xlsx)
   

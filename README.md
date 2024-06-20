@@ -5,9 +5,9 @@
 Excelファイル から Markdownテーブル の変換で使用したファイル。
 
 - 入力ファイル
-  [inputExcel.xlsx](ExcelToMarkdown/inputExcel.xlsx)
+    [inputExcel.xlsx](ExcelToMarkdown/inputExcel.xlsx)
 - 出力ファイル
-  [ExcelToMarkdownTable_outputMarkdownTable.md](ExcelToMarkdown/outputMarkdownTable.md)
+    [ExcelToMarkdownTable_outputMarkdownTable.md](ExcelToMarkdown/outputMarkdownTable.md)
 
 ## フォルダー「MarkdownTableToExcel」
 

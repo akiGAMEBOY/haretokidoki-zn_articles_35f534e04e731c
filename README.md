@@ -1,4 +1,4 @@
-# サンプルデータ一式 関連記事：PowerShellで“Markdownテーブル”と“Excelファイル”を相互変換する方法
+# サンプルデータ一式（PowerShellで“Markdownテーブル”と“Excelファイル”を相互変換する方法）
 
 ## フォルダー「ExcelToMarkdownTable」
 
